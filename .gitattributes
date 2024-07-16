@@ -1,2 +1,3 @@
 *.r linguist-language=Rez
+*.rdump linguist-language=Rez
 *.p linguist-language=Pascal
