@@ -1,4 +1,4 @@
 worktree/
-.*
+._*
 *.conf
 __pycache__/
