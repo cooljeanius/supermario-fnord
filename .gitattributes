@@ -1,3 +1,4 @@
+*.a linguist-language=Assembly
 *.r linguist-language=Rez
 *.rdump linguist-language=Rez
 *.p linguist-language=Pascal
